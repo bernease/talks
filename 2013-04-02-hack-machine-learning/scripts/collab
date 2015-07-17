@@ -1,0 +1,64 @@
+import json
+import urllib
+from __future__ import print_function
+
+## Add token and user ID ##
+
+token = r'<INSERT HERE>'
+my_id = r'<INSERT HERE>'
+min_likes = 1
+min_comments = 1
+
+
+## Read in friend ID's ##
+
+# reads text from url
+friends_json = urllib.urlopen(r'https://graph.facebook.com/' + my_id + r'?fields=friends.fields(id)&access_token=' + token).read()
+
+# converts to python
+friends = json.loads(friends_json)
+
+# how many friends do you have?
+print("I have", len(friends), "friends on Facebook.", sep=' ')
+
+# initialize dictionary of friends with similarity count = 0
+friend_sim = {}
+total_sim = 0
+for keypair in friends:
+	friend_sim[keypair['id']] = 0
+
+# could also use friend_sim = dict(zip(...))
+
+## Populate friend_sim dictionary ##
+for friend_id in friend_sim.keys():
+  
+	# reads text from url
+	statuses_json = urllib.urlopen(r'https://graph.facebook.com/' + my_id + r'?fields=friends.fields(id)&access_token=' + token).read()
+
+	# converts to python
+	statuses = json.loads(statuses_json)
+
+	# clean up a bit
+	statuses = statuses['friends']['data'][0]['statuses']['data']
+
+	# check if length = 2, if not no statuses
+	if len(statuses['friends']['data'][0]) != 2:
+		break;
+
+	## For each status, pull results ##
+	for status in statuses:
+		
+		# increase total_sim
+		total_sim += 1
+
+		# make unique list of likers
+		likers = set()
+		for like in status['likes']['data']:
+			likers.add(like['id'])
+
+		# make unique list of commenters
+		commenters = set()
+		for comment in status['comments']['data']:
+			commenters.add(comment['from']['id'])
+
+		# if my_id in set or 

@@ -1,0 +1,785 @@
+[
+      {
+         "name": "Hack Machine Learning",
+         "start_time": "2013-04-02T18:30:00-0400",
+         "end_time": "2013-04-02T20:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1010 DOW",
+         "id": "125407540978291",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Tech Startup Panel - Presented by Michigan Hackers",
+         "start_time": "2013-03-27T18:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1200 EECS, The EECS Building, EECS Land",
+         "id": "143545819154775",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Reelect Andy Modell + forUM for CSG Engineering Rep",
+         "start_time": "2013-03-27T00:00:00-0400",
+         "end_time": "2013-03-28T23:55:00-0400",
+         "timezone": "America/Detroit",
+         "location": "vote.umich.edu",
+         "id": "344681202298994",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "EECS Alum/Faculty/Grad Student Panel",
+         "start_time": "2013-03-26T18:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1670 Bob and Betty Beyster Building",
+         "id": "148488865318035",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "EECS HAUS ULTRA MUSIC FESTIVAL",
+         "start_time": "2013-03-23T16:00:00-0400",
+         "end_time": "2013-03-24T04:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "EECS Haus",
+         "id": "495501950493693",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "HackPSU- Hackathon at Penn State",
+         "start_time": "2013-03-22T17:30:00-0400",
+         "end_time": "2013-03-23T19:00:00-0400",
+         "timezone": "America/New_York",
+         "location": "Penn State IST Building",
+         "id": "121847008001347",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Learn How to Android",
+         "start_time": "2013-03-21T19:30:00-0400",
+         "end_time": "2013-03-21T21:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "TechArb 500 E. Washington (take the elevator down to the lower level suite 10) ",
+         "id": "443075765768003",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Hardware Hacking, How To Turn Your Hardware Dreams Into Reality",
+         "start_time": "2013-03-19T18:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "EECS 1200",
+         "id": "484634361585476",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "St. Patty's Bagel Breakfast",
+         "start_time": "2013-03-17T06:00:00-0400",
+         "end_time": "2013-03-17T10:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Michigan Union",
+         "id": "132960446884887",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan Hackers Presents Mario Party",
+         "start_time": "2013-03-15T21:00:00-0400",
+         "end_time": "2013-03-16T04:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "EECS Haus",
+         "id": "436121489795368",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Setting Up Your Website the Michigan Hackers' Way - Adding Interactivity with JQuery/Javascript",
+         "start_time": "2013-03-14T20:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "TechArb 500 E. Washington and take the elevator down to the lower level. Tech Arb is suite 10",
+         "id": "354333044682931",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "The Salute to African American Women",
+         "start_time": "2013-03-14T19:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Michigan League Ballroom",
+         "id": "172209119593046",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Pizza House!",
+         "start_time": "2013-03-13T18:00:00-0400",
+         "end_time": "2013-03-13T20:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Pizza House",
+         "id": "498422000221843",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Turn Up University",
+         "start_time": "2013-03-01T08:00:00-0500",
+         "end_time": "2013-03-02T04:00:00-0500",
+         "timezone": "America/New_York",
+         "location": "Ann Arbor",
+         "id": "437581829648068",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "CS Study Sunday - Presented by CSE Scholars, HKN, CSEG and Michigan Hackers",
+         "start_time": "2013-02-24T14:00:00-0500",
+         "end_time": "2013-02-24T18:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "1690 BBB",
+         "id": "516334378417011",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Lions, Tigers and Beats, Oh My!",
+         "start_time": "2013-02-23T19:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "University Of Michigan Union Ballroom",
+         "id": "409776119107472",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Startup Crash Course: Web Design",
+         "start_time": "2013-02-22T16:00:00-0500",
+         "end_time": "2013-02-22T18:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Angell Hall, Auditorium C",
+         "id": "407320679364962",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Gnarly Harley",
+         "start_time": "2013-02-22",
+         "location": "1017 Oakland Avenue ",
+         "id": "394677740629063",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Setting Up Your Website the Michigan Hackers\u2019 Way - Designing with CSS/HTML/LESS",
+         "start_time": "2013-02-14T20:00:00-0500",
+         "end_time": "2013-02-14T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "The CFE Space on the 1st Floor of the UGLI",
+         "id": "421444474605313",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Valentine\u2019s Day LASER Workshop",
+         "start_time": "2013-02-11T19:00:00-0500",
+         "end_time": "2013-02-11T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "AHA! (All Hands Active)",
+         "id": "497572506948588",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Lecture in Ann Arbor on Ukraine by Member of European Parliament.",
+         "start_time": "2013-02-11T16:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "CREES - University of Michigan",
+         "id": "130349973799362",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Cupid's Undie Run - Detroit",
+         "start_time": "2013-02-09T12:00:00-0500",
+         "timezone": "America/Toronto",
+         "location": "Cheli's Chili Bar Detroit",
+         "id": "301668259935309",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Screening of The Social Network - Presented by Michigan Hackers and CSE Scholars",
+         "start_time": "2013-02-08T19:00:00-0500",
+         "end_time": "2013-02-08T21:20:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Stamps Auditorium",
+         "id": "151429701680765",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Setting Up Your Website the Michigan Hackers Way - Registering a Domain and Setting up Heroku",
+         "start_time": "2013-02-07T20:00:00-0500",
+         "end_time": "2013-02-07T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "UGLi's CFE Space (back area of the first floor)",
+         "id": "324869014279508",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Bell's 30 for 30 Ashley's Anniversary Celebration",
+         "start_time": "2013-02-05T12:00:00-0600",
+         "timezone": "America/Chicago",
+         "location": "Ashley's Ann Arbor",
+         "id": "332409370197931",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "MHacks Hackathon",
+         "start_time": "2013-02-01T18:00:00-0500",
+         "end_time": "2013-02-03T16:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Palmer Commons at University of Michigan",
+         "id": "504452636243742",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "MHacks Volunteer Training",
+         "start_time": "2013-01-30T16:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Palmer Commons at University of Michigan",
+         "id": "251401314993875",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Start Garden",
+         "start_time": "2013-01-27T18:30:00-0500",
+         "end_time": "2013-01-27T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "UMMA: University of Michigan Museum of Art",
+         "id": "134209690076055",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Errrrrrrrca's Birthday Party!",
+         "start_time": "2013-01-26T22:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "715 E. Ann St. Apt. #3",
+         "id": "390232067736045",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "#DeeGreezySlapfest Part 2",
+         "start_time": "2013-01-25T22:00:00-0500",
+         "end_time": "2013-01-26T02:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Elmo's Hideaway",
+         "id": "462146670499825",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "UMix: Please Don't Stop the Music!",
+         "start_time": "2013-01-25T22:00:00-0500",
+         "end_time": "2013-01-26T02:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Michigan Union",
+         "id": "193605430783879",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "The Michigan Hackers Winter Gala Party Festival",
+         "start_time": "2013-01-25T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "EECS Haus",
+         "id": "327377084038636",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "The Very First Ever Ann Arbor Nerd Nite!",
+         "start_time": "2013-01-24T18:30:00-0500",
+         "end_time": "2013-01-24T21:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "327 Braun Court",
+         "id": "104499359720469",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan Hackers Mass Meeting",
+         "start_time": "2013-01-22T18:30:00-0500",
+         "timezone": "America/Detroit",
+         "location": "1200 EECS",
+         "id": "465449143492374",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "PennApps Final Demo Session + Top 20 Teams Showcase",
+         "start_time": "2013-01-20T14:00:00-0500",
+         "end_time": "2013-01-20T18:00:00-0500",
+         "timezone": "America/New_York",
+         "location": "Irvine Auditorium",
+         "id": "314881508624057",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "New York Times Javascript Tech Talks",
+         "start_time": "2013-01-18T15:00:00-0500",
+         "timezone": "America/New_York",
+         "location": "Huntsman F38",
+         "id": "255144397949801",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Black HAIRstory 2.0",
+         "start_time": "2013-01-17T19:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Rackham Assembly Hall, Ann Arbor",
+         "id": "541190655891566",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "MPowered Startup Career Fair",
+         "start_time": "2013-01-17T13:00:00-0500",
+         "end_time": "2013-01-17T17:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Pierpont Commons & Duderstadt Library",
+         "id": "299776763459030",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Toy's for Tats 2012",
+         "start_time": "2012-12-15T13:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Depot Town Tattoo",
+         "id": "488617091183441",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Arduino!",
+         "start_time": "2012-12-08T14:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "AHA! (All Hands Active)",
+         "id": "111878372312589",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Tis' the season!",
+         "start_time": "2012-12-07",
+         "location": "Ann Arbor",
+         "id": "553739594640902",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "2012 Michigan District Miss Black and Gold Scholarship Pageant",
+         "start_time": "2012-12-01T19:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "The Michigan League",
+         "id": "136695329813486",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "SSA: Weekly Meeting",
+         "start_time": "2012-11-29T19:00:00-0600",
+         "timezone": "America/Chicago",
+         "location": "SSA-Michigan Chapter",
+         "id": "194264367377285",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Final Welcome Wednesday of 2012",
+         "start_time": "2012-11-14T08:00:00-0500",
+         "end_time": "2012-11-14T12:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "Alumni Association of the University of Michigan: Student Programs",
+         "id": "279691855485113",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Graduate School Information Session",
+         "start_time": "2012-11-14",
+         "location": "438 West Hall",
+         "id": "372371406179677",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "MPowered Presents: iOS Crash Course",
+         "start_time": "2012-11-09T16:00:00-0500",
+         "end_time": "2012-11-09T18:00:00-0500",
+         "timezone": "America/Detroit",
+         "location": "The Ross School of Business E0540",
+         "id": "389516231123253",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Chris Jenks Lock Picking Workshop",
+         "start_time": "2012-11-05T18:30:00-0500",
+         "timezone": "America/New_York",
+         "location": "1200 EECS",
+         "id": "242458959215653",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "NSBE Post-Graduation Information Fair",
+         "start_time": "2012-10-23T17:30:00-0400",
+         "end_time": "2012-10-23T19:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Bob and Betty Beyster Building",
+         "id": "377259782354171",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan State Dry Streak, Prepare To Get Moistened! A Pregame Extravaganza.",
+         "start_time": "2012-10-20T08:00:00-0400",
+         "end_time": "2012-10-20T15:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1129 S. State St. Ann Arbor, Michigan",
+         "id": "119132111573583",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Arduino Class - Smart Costume Edition",
+         "start_time": "2012-10-13T14:00:00-0400",
+         "end_time": "2012-10-13T16:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "AHA! (All Hands Active)",
+         "id": "113984125424565",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Meet Your Town Mixer",
+         "start_time": "2012-10-03T18:00:00-0400",
+         "end_time": "2012-10-03T20:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "TechArb",
+         "id": "419777594745368",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "SWE/TBP Career Fair",
+         "start_time": "2012-09-24T10:00:00-0400",
+         "end_time": "2012-09-25T16:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "North Campus",
+         "id": "282279295220369",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Learn-To-Hack",
+         "start_time": "2012-09-21T17:30:00-0400",
+         "end_time": "2012-09-22T07:25:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1500 EECS",
+         "id": "427078283994304",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Collaborating with Git / Mass Meeting #2",
+         "start_time": "2012-09-18T18:30:00-0400",
+         "timezone": "America/New_York",
+         "location": "1200 EECS, Ann Arbor, Michigan 48104",
+         "id": "515473178479800",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Deloitte Tailgate",
+         "start_time": "2012-09-15T12:00:00-0400",
+         "end_time": "2012-09-15T14:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Fingerle Lumber Company",
+         "id": "275695179201525",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "Michigan Hackers goes to PennApps",
+         "start_time": "2012-09-14",
+         "location": "University of Pennsylvania",
+         "id": "139274826214477",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "MH Van(s) \u0040 PennApps",
+         "start_time": "2012-09-14",
+         "location": "Ann Arbor, Michigan 48104",
+         "id": "399776836754775",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Jack Dorsey + Square \u0040 U-M | Making Payments Better for Everyone",
+         "start_time": "2012-09-13T18:30:00-0400",
+         "end_time": "2012-09-13T19:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Chesebrough Auditorium",
+         "id": "262635430506083",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Hacking 101 / Mass Meeting #1",
+         "start_time": "2012-09-12T18:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Stamps Auditorium",
+         "id": "498459033515455",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Welcome Wednesdays Return!",
+         "start_time": "2012-09-12T08:00:00-0400",
+         "end_time": "2012-09-12T12:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Alumni Association of the University of Michigan: Student Programs",
+         "id": "348894545193916",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "NSBE Annual BBQ",
+         "start_time": "2012-09-07T17:00:00-0400",
+         "end_time": "2012-09-07T20:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Duderstadt Center Courtyard",
+         "id": "468356623184936",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan Hackers at Festifall",
+         "start_time": "2012-09-06T11:00:00-0400",
+         "end_time": "2012-09-06T16:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "The Diag",
+         "id": "425910057444264",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Party At My House",
+         "start_time": "2012-08-31T22:00:00-0400",
+         "timezone": "America/New_York",
+         "location": "1129 S. State St. Ann Arbor, MI 48104",
+         "id": "172643306193743",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Home track meet",
+         "start_time": "2012-05-04",
+         "location": "outdoor track (by yost ice arena)",
+         "id": "404232842942224",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "A p\u003C0.0001 Statistics Celebration",
+         "start_time": "2012-04-26T19:30:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Osterweil Co-op",
+         "id": "218149464965584",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan Event",
+         "start_time": "2012-04-20T21:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "909 Packard",
+         "id": "353341131379073",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "The Markov Chain Bar Night - Where the next bar is independent of the previous",
+         "start_time": "2012-04-18T22:00:00-0400",
+         "end_time": "2012-04-19T02:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "North Quad",
+         "id": "216336888470534",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "SAAC's Student Athlete End of the Year BBQ",
+         "start_time": "2012-04-18T12:00:00",
+         "end_time": "2012-04-18T14:00:00",
+         "location": "AC Back Patio",
+         "id": "292820270792228",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Birthday Bash",
+         "start_time": "2012-04-14T23:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "1017 Oakland Ave",
+         "id": "367587366613871",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "LEAD Scholars: Spring Celebration",
+         "start_time": "2012-03-29T18:00:00",
+         "end_time": "2012-03-29T21:00:00",
+         "location": "Alumni Association of the University of Michigan",
+         "id": "273249826050673",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "CEN and MPowered present --- Match n' Mingle",
+         "start_time": "2012-03-24T13:00:00-0400",
+         "end_time": "2012-03-24T15:00:00-0400",
+         "timezone": "America/Detroit",
+         "location": "Michigan Union",
+         "id": "338725786163464",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "A2 DataDive!",
+         "start_time": "2012-02-10T17:00:00",
+         "end_time": "2012-02-12T15:00:00",
+         "location": "Space 2435 North Quad",
+         "id": "377491992268312",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Monopoly: Meetings of the Minds",
+         "start_time": "2012-01-21T18:00:00",
+         "end_time": "2012-05-21T23:30:00",
+         "location": "The Kingdom",
+         "id": "281363325252711",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Black and White Party (Taylor and Paul's Birthday Party!)",
+         "start_time": "2011-10-14T22:00:00",
+         "end_time": "2011-10-15T04:00:00",
+         "location": "701 Catherine, Ann Arbor",
+         "id": "296776677005732",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "SEO \u0040 DivCo Internship Fair at University of Michigan!",
+         "start_time": "2011-10-13T17:00:00",
+         "end_time": "2011-10-13T19:00:00",
+         "location": "Pendleton Room, Michigan Union",
+         "id": "237780959604450",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Open House and One-on-Ones with an SEO recruiter at University of Michigan",
+         "start_time": "2011-10-13T10:00:00",
+         "end_time": "2011-10-13T16:30:00",
+         "location": "Ross Building, 3rd Floor (R3490)",
+         "id": "210674402332024",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Hey we're having a party.",
+         "start_time": "2011-09-30T22:30:00",
+         "end_time": "2011-10-01T01:30:00",
+         "location": "1129 State St.",
+         "id": "167312450019210",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Throwblack Party 2011",
+         "start_time": "2011-09-09T22:00:00",
+         "end_time": "2011-09-10T01:00:00",
+         "location": "Michigan Room in The Michigan League",
+         "id": "224943857552707",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Student-Athlete Welcome Back BBQ",
+         "start_time": "2011-09-05T18:30:00",
+         "end_time": "2011-09-05T21:30:00",
+         "location": "Parking Lot Behind the AC",
+         "id": "207482259309874",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "The Kick Off: U of M vs. Western Kappa Party",
+         "start_time": "2011-09-03T22:00:00",
+         "end_time": "2011-09-04T04:00:00",
+         "location": "1103 White st. Ann Arbor, MI 48104",
+         "id": "200160546714882",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "University of Michigan Meijer Mania",
+         "start_time": "2011-09-02T21:00:00",
+         "end_time": "2011-09-03T01:00:00",
+         "location": "Saline/Ann Arbor, MI Meijer Location",
+         "id": "205276799522025",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Some code and a dream",
+         "start_time": "2011-06-30T17:00:00",
+         "end_time": "2011-06-30T17:30:00",
+         "location": "University of Michigan",
+         "id": "202847989760107",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "ATP \u25ba TEASE \u25c4 EXCLUSIVE PARTY IN K-TOWN",
+         "start_time": "2011-06-16T22:00:00",
+         "end_time": "2011-06-17T04:00:00",
+         "location": "Eden Lounge",
+         "id": "231532513528393",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Pre-Orientation meetup",
+         "start_time": "2011-05-21T20:30:00",
+         "end_time": "2011-05-21T23:30:00",
+         "location": "SoHo Billiards",
+         "id": "225357510824446",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan Football Spring Game",
+         "start_time": "2011-04-16T12:00:00",
+         "end_time": "2011-04-16T15:00:00",
+         "location": "Michigan Stadium",
+         "id": "189256481105634",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "2012 Presidential Candidate Gary Johnson Comes to U of M!",
+         "start_time": "2011-03-31T20:00:00",
+         "end_time": "2011-03-31T22:00:00",
+         "location": "Michigan League Ballroom",
+         "id": "196321983722664",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "BBUS 1st Annual Business Ventures Scholarship Banquet",
+         "start_time": "2011-03-27T18:00:00",
+         "end_time": "2011-03-27T20:00:00",
+         "location": "Stephen M. Ross School of Business Colloquium (6th Floor)",
+         "id": "119346628140602",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Karaoke with BSU",
+         "start_time": "2011-03-23T18:00:00",
+         "end_time": "2011-03-23T20:00:00",
+         "location": "Trotter Multicultural Center",
+         "id": "153864978005997",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "A Night at the Set XXII",
+         "start_time": "2011-02-18T19:00:00",
+         "end_time": "2011-02-18T22:00:00",
+         "location": "Michigan Union Ballroom",
+         "id": "124415784285916",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "SUPERBOWL SUNDAY \u00405thQuarter | Taylore Made Riko & FLY BOI Ian ",
+         "start_time": "2011-02-06T17:30:00",
+         "end_time": "2011-02-07T02:00:00",
+         "location": "5th Quarter Nightclub",
+         "id": "174804915896071",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "CEOs and Morally Flexible Women",
+         "start_time": "2011-02-05T22:30:00",
+         "end_time": "2011-02-06T05:00:00",
+         "location": "304 E. Madison",
+         "id": "104496339628343",
+         "rsvp_status": "unsure"
+      },
+      {
+         "name": "University of Michigan Winter Engineering Career Fair",
+         "start_time": "2011-02-03T10:00:00",
+         "end_time": "2011-02-03T13:00:00",
+         "location": "Pierpont Commons",
+         "id": "141097442609426",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "A little Shindig party thing hey.",
+         "start_time": "2011-01-29T22:00:00",
+         "end_time": "2011-01-30T02:00:00",
+         "location": "Ma House",
+         "id": "124860537584713",
+         "rsvp_status": "attending"
+      },
+      {
+         "name": "Michigan vs OSU Track Meet",
+         "start_time": "2011-01-15T10:00:00",
+         "end_time": "2011-01-15T13:00:00",
+         "location": "At the Michigan Indoor Track Building",
+         "id": "132272880168083",
+         "rsvp_status": "attending"
+      }
+   ]
